@@ -35,7 +35,6 @@ BUNDLED_COMMANDS="${BUNDLED_COMMANDS:-
 cap
 capify
 cucumber
-foreman
 guard
 haml
 heroku
